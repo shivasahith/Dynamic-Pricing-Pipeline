@@ -2,6 +2,8 @@
 
 ## Summary
 This project demonstrates a **dynamic pricing pipeline** on **Databricks** using an Amazon sales dataset.  
+https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+
 It follows the **Bronze–Silver–Gold architecture** with monitoring, feature engineering, and suggested pricing logic.
 
 - **Bronze:** Raw ingestion of CSV (uncleaned).  
